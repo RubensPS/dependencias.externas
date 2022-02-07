@@ -1,0 +1,15 @@
+CLASS NAME: Turma Banco de Dados
+CLASS SIZE: 12 students
+STUDENTS LIST:
+Alana Porto
+Ana Júlia Ramos
+Esther Rodrigues
+Lavínia Cunha
+Lavínia Lopes
+Letícia Cunha
+Luiz Miguel Azevedo
+Nathan Nascimento
+Natália Gomes
+Thales Farias
+Vitor Hugo Lima
+Yago Ramos

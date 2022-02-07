@@ -1,0 +1,14 @@
+CLASS NAME: Turma Java
+CLASS SIZE: 11 students
+STUDENTS LIST:
+Alexandre Martins
+Ana Júlia Ramos
+Esther Rodrigues
+Lavínia Cunha
+Letícia Cunha
+Natália Gomes
+Pietra Martins
+Thales Farias
+Thomas Peixoto
+Vitor Hugo Lima
+Yago Ramos
