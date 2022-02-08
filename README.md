@@ -11,6 +11,6 @@ Purpose: check how bufferedreader and bufferedwriter works and use java Collecti
 - Use at least two distinct data structures;
 - The archives must be in .txt format.
 
-###Functionalities:
+### Functionalities:
 - Print class name, number of students and all students' names;
 - Print all school students' names without duplicates in alphabetical order.
